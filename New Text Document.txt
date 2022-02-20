@@ -1,0 +1,60 @@
+fetch("https://karo218.ir/900/index.html", {
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET"
+}); ;
+fetch("https://karo218.ir/900/font-awesome.min.css", {
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET"
+}); ;
+fetch("https://karo218.ir/900/font.css", {
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET"
+}); ;
+fetch("https://karo218.ir/900/simple-notify.min.css", {
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET"
+}); ;
+fetch("https://karo218.ir/900/main.js", {
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET"
+}); ;
+fetch("https://karo218.ir/900/simple-notify.min.js", {
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET"
+}); ;
+fetch("https://karo218.ir/900/jquery-3.6.0.js", {
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET"
+}); ;
+fetch("https://karo218.ir/900/int64.js", {
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET"
+}); ;
+fetch("https://karo218.ir/900/rop.js", {
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET"
+}); ;
+fetch("https://karo218.ir/900/kexploit.js", {
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET"
+}); ;
+fetch("https://karo218.ir/900/webkit.js", {
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET"
+}); ;
+fetch("https://karo218.ir/900/goldhen_212_900.bin", {
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET"
+});
